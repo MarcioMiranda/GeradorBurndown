@@ -1,0 +1,11 @@
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\SCRUM.Teste.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\SCRUM.Teste.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\br.com.tcc.bo.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\br.com.tcc.model.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\br.com.tcc.util.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\br.com.tcc.bo.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\br.com.tcc.model.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\bin\Debug\br.com.tcc.util.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\obj\Debug\SCRUM.Teste.csprojResolveAssemblyReference.cache
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\obj\Debug\SCRUM.Teste.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.Teste\obj\Debug\SCRUM.Teste.pdb

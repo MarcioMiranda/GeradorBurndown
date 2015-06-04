@@ -1,0 +1,4 @@
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.model\bin\Debug\br.com.tcc.model.dll
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.model\bin\Debug\br.com.tcc.model.pdb
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.model\obj\Debug\br.com.tcc.model.dll
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.model\obj\Debug\br.com.tcc.model.pdb

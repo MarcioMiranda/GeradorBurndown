@@ -1,0 +1,16 @@
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\SCRUM.UI.dsk.exe.config
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\SCRUM.UI.dsk.exe
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\SCRUM.UI.dsk.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\br.com.tcc.bo.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\br.com.tcc.model.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\br.com.tcc.util.dll
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\br.com.tcc.bo.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\br.com.tcc.model.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\bin\Debug\br.com.tcc.util.pdb
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.csprojResolveAssemblyReference.cache
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.frmBurndownHoras.resources
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.frmPrincipal.resources
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.Properties.Resources.resources
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.csproj.GenerateResource.Cache
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.exe
+C:\Users\GQM\Desktop\SCRUM\SCRUM.UI.dsk\obj\Debug\SCRUM.UI.dsk.pdb

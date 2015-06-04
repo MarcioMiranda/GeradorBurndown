@@ -1,0 +1,9 @@
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\bin\Debug\br.com.tcc.bo.dll
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\bin\Debug\br.com.tcc.bo.pdb
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\bin\Debug\br.com.tcc.model.dll
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\bin\Debug\br.com.tcc.util.dll
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\bin\Debug\br.com.tcc.model.pdb
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\bin\Debug\br.com.tcc.util.pdb
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\obj\Debug\br.com.tcc.bo.csprojResolveAssemblyReference.cache
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\obj\Debug\br.com.tcc.bo.dll
+C:\Users\GQM\Desktop\SCRUM\br.com.tcc.bo\obj\Debug\br.com.tcc.bo.pdb
